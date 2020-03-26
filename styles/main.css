@@ -29,13 +29,13 @@ body{
     margin-left: 230px;
     margin-bottom: 20px;
     }
-    nav{
+.nav_bar{
         display:  block;
         float: right;
         padding-top: 10px;
         margin-right: 140px;
     }
-    nav li{
+nav li{
     display: inline-block;
      margin: 20px;
      padding: 0;
