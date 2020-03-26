@@ -1,1 +1,213 @@
-<!-- In this file you are going to write the CSS code -->
+
+body{
+    background-image:url(img/billboard.jpg);
+    position: relative;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    }
+    .transparent_nav{
+        background-color: rgba(255, 249, 249, 0.70);
+        height: 90px;
+        width: 101%;
+        position: fixed;   
+    }
+    #nav_list{
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+    }
+    #logo{
+    float: left;
+    padding: 10px;
+    height: 80px;
+    margin-left: 230px;
+    margin-bottom: 20px;
+    }
+    nav{
+        display:  block;
+        float: right;
+        padding-top: 10px;
+        margin-right: 140px;
+    }
+    nav li{
+    display: inline-block;
+     margin: 20px;
+     padding: 0;
+    }
+    nav a{
+        color: rgb(94, 96, 111);
+        text-decoration: none;
+        text-transform: capitalize;
+    }
+    .cta{
+     background-color:   rgba(255, 249, 249, 0.70); 
+     display: inline-block;
+     width: 100%;
+     bottom:0;
+     left: 0;
+     height: 80px;
+     margin-top: 570px;
+     right: 0;
+    }
+    #cta_link{
+        background-color: #106FE3;
+        float: right;
+        margin: 15px;
+        padding: 15px;
+        margin-right: 55px;
+        text-decoration: none;
+        color: #E0DEDE;
+    }
+    #cta_text{
+        padding: 20px;
+        margin: 10px;
+        float: left;
+        color: rgb(94, 96, 111);
+    }
+    #bg_image{
+        height: 500px;
+        width: 100%;
+    }
+    .services_wrapper{
+    background-color: #ECEAEA;
+    height: 500px;
+    width: 100%;
+    margin-top: -25px;
+    }
+    h2{
+        text-align: center;
+        color: rgb(94, 96, 111);
+        padding-top:30px; 
+        
+    }
+    #img_sep{
+       margin: 10px auto 20px;
+       display: block;
+    }
+    #services{
+        display: inline-flex;
+        list-style: none;
+        margin-left: 185px;
+        text-align: center;
+        overflow: auto;
+    }
+    #s2{
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    .recent_work{
+        display: flex;
+        
+    }
+    .testimonials_wrapper{
+        background-color: #ECEAEA;
+        height: 350px;
+        width: 100%;
+        margin-top: -25px;
+    }
+    #test{
+        display: inline-flex;
+        list-style: none;
+        margin-left: 185px;
+        text-align: center;
+    }
+    figcaption{
+        color: rgb(94, 96, 111);
+    }
+    #test_id{
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    ul p{
+        font-size: 15px;
+        max-width: 200px;
+    }
+    #circle{
+        border-top-left-radius: 50% 50%;
+        border-top-right-radius: 50% 50%;
+        border-bottom-right-radius: 50% 50%;
+        border-bottom-left-radius: 50% 50%;
+    }
+    .footer_widget{
+        background-color: rgb(36, 31, 31);
+        display: flex;
+        flex-wrap: wrap;
+        color: white;
+        height: 220px;
+    }
+    
+    .location{
+        max-width: 200px;
+        margin-left: 200px;
+    }
+    #comp_list{
+        list-style: none;
+        max-width: 200px;
+    }
+    #comp_item_1{
+        text-decoration:none;
+        color: white;
+        margin-left: -40px;
+        
+    }
+    #comp_item_2{
+        text-decoration:none;
+        color: white;
+        margin-left: -40px;
+    }
+    #comp_item_3{
+        text-decoration:none;
+        color: white;
+        margin-left: -40px;
+    }
+    #comp_item_4{
+        text-decoration:none;
+        color: white;
+        margin-left: -40px;
+    }
+    #sup_list{
+        list-style: none;
+        
+    }
+    #sup_item_1{
+        text-decoration:none;
+        color: white;
+        margin-left: -40px;
+    }
+    #sup_item_2{
+        text-decoration:none;
+        color: white;
+        margin-left: -40px;
+    }
+    #sup_item_3{
+        text-decoration:none;
+        color: white;
+        margin-left: -40px;
+    }
+    #comp_text{
+        max-width: 200px;
+    }
+    
+    .div1{
+        margin:0 80px;
+    }
+    .div2{
+        margin:0 80px;
+    }
+    .div3{
+        margin:0 80px;
+    }
+    .rights{
+        
+       text-align: center;
+       margin-left: 550px;
+       margin-bottom: 0;
+       
+    }
+    
