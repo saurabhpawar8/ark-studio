@@ -40,6 +40,18 @@ body{
      margin: 20px;
      padding: 0;
     }
+    #nav_list_1{
+        margin: 20px;
+    }
+    #nav_list_2{
+        margin: 20px;
+    }
+    #nav_list_3{
+        margin: 20px;
+    }
+    #nav_list_4{
+        margin: 20px;
+    }
     nav a{
         color: rgb(94, 96, 111);
         text-decoration: none;
