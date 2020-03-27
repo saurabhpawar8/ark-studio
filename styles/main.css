@@ -11,18 +11,18 @@ body{
     padding: 0px;
     overflow-x: hidden;
     }
-    .transparent_nav{
+.transparent_nav{
         background-color: rgba(255, 249, 249, 0.70);
         height: 90px;
         width: 101%;
         position: fixed;   
     }
-    #nav_list{
+#nav_list{
         list-style: none;
         margin: 0px;
         padding: 0px;
     }
-    #logo{
+#logo{
     float: left;
     padding: 10px;
     height: 80px;
@@ -40,24 +40,24 @@ nav li{
      margin: 20px;
      padding: 0;
     }
-    #nav_list_1{
+#nav_list_1{
         margin: 20px;
     }
-    #nav_list_2{
+#nav_list_2{
         margin: 20px;
     }
-    #nav_list_3{
+#nav_list_3{
         margin: 20px;
     }
-    #nav_list_4{
+#nav_list_4{
         margin: 20px;
     }
-    nav a{
+nav a{
         color: rgb(94, 96, 111);
         text-decoration: none;
         text-transform: capitalize;
     }
-    .cta{
+.cta{
      background-color:   rgba(255, 249, 249, 0.70); 
      display: inline-block;
      width: 100%;
@@ -67,7 +67,7 @@ nav li{
      margin-top: 570px;
      right: 0;
     }
-    #cta_link{
+#cta_link{
         background-color: #106FE3;
         float: right;
         margin: 15px;
@@ -76,77 +76,77 @@ nav li{
         text-decoration: none;
         color: #E0DEDE;
     }
-    #cta_text{
+#cta_text{
         padding: 20px;
         margin: 10px;
         float: left;
         color: rgb(94, 96, 111);
     }
-    #bg_image{
+#bg_image{
         height: 500px;
         width: 100%;
     }
-    .services_wrapper{
+.services{
     background-color: #ECEAEA;
     height: 500px;
     width: 100%;
     margin-top: -25px;
     }
-    h2{
+h2{
         text-align: center;
         color: rgb(94, 96, 111);
         padding-top:30px; 
         
     }
-    #img_sep{
+#img_sep{
        margin: 10px auto 20px;
        display: block;
     }
-    #services{
+#serv{
         display: inline-flex;
         list-style: none;
         margin-left: 185px;
         text-align: center;
         overflow: auto;
     }
-    #s2{
+#s2{
         margin-left: 150px;
         margin-right: 150px;
     }
-    .recent_work{
+.recent_work{
         display: flex;
         
     }
-    .testimonials_wrapper{
+.testimonials{
         background-color: #ECEAEA;
         height: 350px;
         width: 100%;
         margin-top: -25px;
     }
-    #test{
+#test{
         display: inline-flex;
         list-style: none;
         margin-left: 185px;
         text-align: center;
     }
-    figcaption{
+figcaption{
         color: rgb(94, 96, 111);
     }
-    #test_id{
+#test_id{
         margin-left: 150px;
         margin-right: 150px;
     }
-    ul p{
+ul p{
         font-size: 15px;
         max-width: 200px;
     }
-    #circle{
+#circle{
         border-top-left-radius: 50% 50%;
         border-top-right-radius: 50% 50%;
         border-bottom-right-radius: 50% 50%;
         border-bottom-left-radius: 50% 50%;
     }
-    .footer_widget{
+.footer_widget{
         background-color: rgb(36, 31, 31);
         display: flex;
         flex-wrap: wrap;
@@ -154,68 +154,68 @@ nav li{
         height: 220px;
     }
     
-    .location{
+.location{
         max-width: 200px;
         margin-left: 200px;
     }
-    #comp_list{
+#comp_list{
         list-style: none;
         max-width: 200px;
     }
-    #comp_item_1{
+#comp_item_1{
         text-decoration:none;
         color: white;
         margin-left: -40px;
         
     }
-    #comp_item_2{
+#comp_item_2{
         text-decoration:none;
         color: white;
         margin-left: -40px;
     }
-    #comp_item_3{
+#comp_item_3{
         text-decoration:none;
         color: white;
         margin-left: -40px;
     }
-    #comp_item_4{
+#comp_item_4{
         text-decoration:none;
         color: white;
         margin-left: -40px;
     }
-    #sup_list{
+#sup_list{
         list-style: none;
         
     }
-    #sup_item_1{
+#sup_item_1{
         text-decoration:none;
         color: white;
         margin-left: -40px;
     }
-    #sup_item_2{
+#sup_item_2{
         text-decoration:none;
         color: white;
         margin-left: -40px;
     }
-    #sup_item_3{
+#sup_item_3{
         text-decoration:none;
         color: white;
         margin-left: -40px;
     }
-    #comp_text{
+#comp_text{
         max-width: 200px;
     }
     
-    .div1{
+.div1{
         margin:0 80px;
     }
-    .div2{
+.div2{
         margin:0 80px;
     }
-    .div3{
+.div3{
         margin:0 80px;
     }
-    .rights{
+.rights{
         
        text-align: center;
        margin-left: 550px;
